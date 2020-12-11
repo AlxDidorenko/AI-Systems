@@ -9,7 +9,7 @@
 
 3). Затем перейти в папку с файлом esystem.py в командной строке (при помощи команды cd) 
 
-4). Запустить команду pyinstaller не забудьте указать имя вашего скрипта 
+4). Запустить команду pyinstaller
 
 <pre><code>pyinstaller --onefile esystem.py 
 </code></pre>
