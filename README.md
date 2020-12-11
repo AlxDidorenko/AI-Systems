@@ -1,4 +1,4 @@
-# GitHub-Flavored Markdown
+# Как запустить программу?
 1). Открыть командную строку
 2). Установить pyinstaller 
 <pre><code>pip install pyinstaller 
